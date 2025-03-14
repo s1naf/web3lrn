@@ -410,3 +410,101 @@ PoW relies on miners competing to solve complex mathematical puzzles. The first 
 
 ### Κύριο Συμπέρασμα:
 - Το PoW παρέχει υψηλή ασφάλεια αλλά θυσιάζει την αποδοτικότητα και τη βιωσιμότητα.
+
+## Proof of Stake (PoS) – How Ethereum Achieves Consensus
+
+Instead of mining, Ethereum now selects validators to propose and confirm blocks:
+
+### How PoS Works:
+- Users stake ETH (lock funds) to become network validators.
+- Validators earn rewards for confirming transactions.
+- Malicious validators risk losing their staked ETH (slashing penalty).
+
+### Why PoS is an Improvement:
+- **Energy Efficiency:** PoS reduces Ethereum’s energy use by 99.9% compared to PoW.
+- **Scalability:** PoS can handle more transactions per second (100,000+ TPS with future upgrades).
+- **Lower Entry Barrier:** No need for expensive mining hardware—anyone with 32 ETH can validate.
+
+### Challenges of PoS:
+- **Wealth Concentration Risk:** Those with more ETH have greater influence over the network.
+- **Security Debate:** Some argue PoS is less secure than PoW against certain attacks (e.g., long-range attacks).
+- **Centralization Concerns:** Large staking providers (e.g., Lido, Coinbase) control significant amounts of staked ETH.
+
+### Key Takeaway:
+- PoS is more efficient than PoW but raises questions about decentralization and governance.
+
+## Proof of Stake (PoS) – Πώς το Ethereum Επιτυγχάνει Συναίνεση
+
+Αντί της εξόρυξης, το Ethereum τώρα επιλέγει επικυρωτές για να προτείνουν και να επιβεβαιώνουν μπλοκ:
+
+### Πώς Λειτουργεί το PoS:
+- Οι χρήστες στοιχηματίζουν ETH (κλειδώνουν κεφάλαια) για να γίνουν επικυρωτές του δικτύου.
+- Οι επικυρωτές κερδίζουν ανταμοιβές για την επιβεβαίωση συναλλαγών.
+- Οι κακόβουλοι επικυρωτές διακινδυνεύουν να χάσουν το στοιχηματισμένο ETH τους (ποινή κοπής).
+
+### Γιατί το PoS είναι Βελτίωση:
+- **Ενεργειακή Αποδοτικότητα:** Το PoS μειώνει τη χρήση ενέργειας του Ethereum κατά 99.9% σε σύγκριση με το PoW.
+- **Επεκτασιμότητα:** Το PoS μπορεί να χειριστεί περισσότερες συναλλαγές ανά δευτερόλεπτο (100,000+ TPS με μελλοντικές αναβαθμίσεις).
+- **Χαμηλότερο Εμπόδιο Εισόδου:** Δεν χρειάζεται ακριβό εξοπλισμό εξόρυξης—οποιοσδήποτε με 32 ETH μπορεί να επικυρώσει.
+
+### Προκλήσεις του PoS:
+- **Κίνδυνος Συγκέντρωσης Πλούτου:** Όσοι έχουν περισσότερα ETH έχουν μεγαλύτερη επιρροή στο δίκτυο.
+- **Συζήτηση για την Ασφάλεια:** Κάποιοι υποστηρίζουν ότι το PoS είναι λιγότερο ασφαλές από το PoW έναντι ορισμένων επιθέσεων (π.χ., μακρινές επιθέσεις).
+- **Ανησυχίες για την Κεντροποίηση:** Οι μεγάλοι πάροχοι στοιχηματισμού (π.χ., Lido, Coinbase) ελέγχουν σημαντικές ποσότητες στοιχηματισμένου ETH.
+
+### Κύριο Συμπέρασμα:
+- Το PoS είναι πιο αποδοτικό από το PoW αλλά εγείρει ερωτήματα σχετικά με την αποκέντρωση και τη διακυβέρνηση.
+
+## Summary
+
+### Centralization vs. Decentralization:
+Most of today’s financial and digital systems are centralized, requiring trust in authorities. Decentralization removes intermediaries but introduces new challenges in governance and efficiency.
+
+### The Evolution of the Internet:
+From Web1 (static, decentralized, open protocols) to Web2 (platform-driven, centralized control and Big Tech dominance) to Web3 (blockchain-based, user-controlled digital ecosystems).
+
+### The Functions of Money & Cryptocurrency’s Role:
+- **Medium of Exchange:** Bitcoin enables global transactions but faces scalability issues.
+- **Unit of Account:** Crypto pricing is rare due to volatility, except in niche cases (e.g., NFTs in ETH).
+- **Store of Value:** Bitcoin is seen as “digital gold,” but its long-term stability is debated.
+
+### Bitcoin vs. Ethereum: Key Differences
+- **Bitcoin:** Focuses on security and decentralization, using Proof of Work (PoW).
+- **Ethereum:** Supports smart contracts and dApps, now using Proof of Stake (PoS) for efficiency.
+
+## Σύνοψη
+
+### Κεντρικοποίηση έναντι Αποκέντρωσης:
+Τα περισσότερα από τα σημερινά χρηματοοικονομικά και ψηφιακά συστήματα είναι κεντρικοποιημένα και απαιτούν εμπιστοσύνη στις αρχές. Η αποκέντρωση αφαιρεί τους μεσάζοντες αλλά εισάγει νέες προκλήσεις στη διακυβέρνηση και την αποδοτικότητα.
+
+### Η Εξέλιξη του Διαδικτύου:
+Από το Web1 (στατικά, αποκεντρωμένα, ανοιχτά πρωτόκολλα) στο Web2 (οδηγούμενο από πλατφόρμες, κεντρικός έλεγχος και κυριαρχία της Big Tech) στο Web3 (βασισμένο σε blockchain, ψηφιακά οικοσυστήματα ελεγχόμενα από τους χρήστες).
+
+### Οι Λειτουργίες του Χρήματος και ο Ρόλος των Κρυπτονομισμάτων:
+- **Μέσο Ανταλλαγής:** Το Bitcoin επιτρέπει παγκόσμιες συναλλαγές αλλά αντιμετωπίζει ζητήματα επεκτασιμότητας.
+- **Λογιστική Μονάδα:** Η τιμολόγηση σε κρυπτονομίσματα είναι σπάνια λόγω της αστάθειας, εκτός από ειδικές περιπτώσεις (π.χ., NFTs σε ETH).
+- **Αποθήκευση Αξίας:** Το Bitcoin θεωρείται ως "ψηφιακός χρυσός", αλλά η μακροπρόθεσμη σταθερότητά του αμφισβητείται.
+
+### Bitcoin vs. Ethereum: Κύριες Διαφορές
+- **Bitcoin:** Επικεντρώνεται στην ασφάλεια και την αποκέντρωση, χρησιμοποιώντας το Proof of Work (PoW).
+- **Ethereum:** Υποστηρίζει έξυπνα συμβόλαια και dApps, χρησιμοποιώντας τώρα το Proof of Stake (PoS) για αποδοτικότητα.
+
+## Concluding Thoughts
+
+As we conclude this first week, we saw how blockchain technology and cryptocurrencies represent a fundamental shift in how we think about money, trust, and digital interactions. Traditional financial and information systems have long relied on central authorities—banks, corporations, and governments—to facilitate transactions and verify records. While this centralized model has provided efficiency and stability, it has also introduced significant challenges related to censorship, security vulnerabilities, and single points of failure.
+
+Bitcoin, the first successful implementation of a decentralized currency, emerged as an alternative to traditional financial systems. It enables peer-to-peer transactions without intermediaries, secured by cryptographic proof rather than institutional trust. However, Bitcoin’s reliance on Proof of Work (PoW) introduces scalability and energy consumption concerns, prompting the search for alternative consensus mechanisms.
+
+Ethereum extended blockchain’s potential beyond digital money, introducing smart contracts and decentralized applications (dApps). With its transition from PoW to Proof of Stake (PoS), Ethereum aims to improve transaction efficiency and reduce environmental impact, though concerns around validator centralization and governance remain.
+
+These two networks—Bitcoin and Ethereum—serve as the foundation of Web3, an evolving digital landscape where users have more control over their assets, data, and online interactions. Understanding the trade-offs between centralization and decentralization is crucial. While decentralized networks promise greater transparency, security, and resistance to control, they also face significant challenges in governance, usability, and regulatory adaptation. As Web3 technologies develop, we will continue to explore how they shape financial systems, online economies, and the broader internet. This course will dive deeper into these transformations, analyzing their real-world applications, limitations, and future potential.
+
+## Τελικές Σκέψεις
+
+Καθώς ολοκληρώνουμε αυτήν την πρώτη εβδομάδα, είδαμε πώς η τεχνολογία blockchain και τα κρυπτονομίσματα αντιπροσωπεύουν μια θεμελιώδη αλλαγή στον τρόπο που σκεφτόμαστε το χρήμα, την εμπιστοσύνη και τις ψηφιακές αλληλεπιδράσεις. Τα παραδοσιακά χρηματοοικονομικά και πληροφοριακά συστήματα έχουν βασιστεί εδώ και καιρό στις κεντρικές αρχές—τράπεζες, εταιρείες και κυβερνήσεις—για να διευκολύνουν τις συναλλαγές και να επαληθεύουν τα αρχεία. Ενώ αυτό το κεντρικοποιημένο μοντέλο έχει προσφέρει αποδοτικότητα και σταθερότητα, έχει επίσης εισαγάγει σημαντικές προκλήσεις που σχετίζονται με τη λογοκρισία, τις ευπάθειες ασφαλείας και τα μονοσήμαντα σημεία αποτυχίας.
+
+Το Bitcoin, η πρώτη επιτυχημένη εφαρμογή ενός αποκεντρωμένου νομίσματος, εμφανίστηκε ως μια εναλλακτική λύση στα παραδοσιακά χρηματοοικονομικά συστήματα. Επιτρέπει συναλλαγές peer-to-peer χωρίς μεσάζοντες, διασφαλισμένες με κρυπτογραφική απόδειξη αντί για θεσμική εμπιστοσύνη. Ωστόσο, η εξάρτηση του Bitcoin από το Proof of Work (PoW) εισάγει ζητήματα επεκτασιμότητας και κατανάλωσης ενέργειας, προκαλώντας την αναζήτηση εναλλακτικών μηχανισμών συναίνεσης.
+
+Το Ethereum επέκτεινε τις δυνατότητες του blockchain πέρα από το ψηφιακό χρήμα, εισάγοντας έξυπνα συμβόλαια και αποκεντρωμένες εφαρμογές (dApps). Με τη μετάβασή του από το PoW στο Proof of Stake (PoS), το Ethereum στοχεύει στη βελτίωση της αποδοτικότητας των συναλλαγών και στη μείωση του περιβαλλοντικού αντίκτυπου, αν και παραμένουν ανησυχίες σχετικά με την κεντροποίηση των επικυρωτών και τη διακυβέρνηση.
+
+Αυτά τα δύο δίκτυα—Bitcoin και Ethereum—αποτελούν το θεμέλιο του Web3, ενός εξελισσόμενου ψηφιακού τοπίου όπου οι χρήστες έχουν μεγαλύτερο έλεγχο στα περιουσιακά τους στοιχεία, τα δεδομένα τους και τις διαδικτυακές αλληλεπιδράσεις τους. Η κατανόηση των συμβιβασμών μεταξύ κεντρικοποίησης και αποκέντρωσης είναι κρίσιμη. Ενώ τα αποκεντρωμένα δίκτυα υπόσχονται μεγαλύτερη διαφάνεια, ασφάλεια και αντίσταση στον έλεγχο, αντιμετωπίζουν επίσης σημαντικές προκλήσεις στη διακυβέρνηση, τη χρηστικότητα και την προσαρμογή στις ρυθμιστικές απαιτήσεις. Καθώς οι τεχνολογίες Web3 εξελίσσονται, θα συνεχίσουμε να εξερευνούμε πώς διαμορφώνουν τα χρηματοοικονομικά συστήματα, τις διαδικτυακές οικονομίες και το ευρύτερο διαδίκτυο. Αυτό το μάθημα θα εμβαθύνει περαιτέρω σε αυτές τις μεταμορφώσεις, αναλύοντας τις εφαρμογές τους στον πραγματικό κόσμο, τους περιορισμούς και το μελλοντικό τους δυναμικό.

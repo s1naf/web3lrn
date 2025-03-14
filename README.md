@@ -155,3 +155,258 @@ Key Takeaway: Bitcoin has monetary properties but is not widely adopted as every
 - Αποθήκευση Αξίας: Το Bitcoin συχνά συγκρίνεται με τον χρυσό λόγω της σταθερής προσφοράς του (21 εκατομμύρια BTC). Ωστόσο, οι διακυμάνσεις των τιμών το καθιστούν ένα υψηλού κινδύνου μέσο αποθήκευσης αξίας.
 
 Κύριο Συμπέρασμα: Το Bitcoin έχει νομισματικές ιδιότητες, αλλά δεν είναι ευρέως υιοθετημένο ως καθημερινό χρήμα λόγω της αστάθειας και των περιορισμών της υποδομής.
+
+
+## Can Crypto Become Mainstream? Key Adoption Challenges
+
+### Regulatory Uncertainty:
+- Governments struggle to classify cryptocurrencies as:
+  - Currency (unstable for everyday use)
+  - Investment assets (subject to capital gains and other taxes)
+  - Commodities (“digital gold”)
+- Regulatory concerns also include:
+  - Anti-Money Laundering (AML) & Know Your Customer (KYC) compliance
+  - Potential competition with central bank digital currencies
+
+### Institutional Adoption:
+- Bitcoin ETFs & Corporate Holdings:
+  - Companies like Tesla, MicroStrategy hold BTC as a reserve asset
+  - ETFs allow traditional investors access to Bitcoin exposure
+- Ethereum’s Role in Financial Infrastructure:
+  - Used in stablecoins, DeFi, tokenized real-world assets (RWAs)
+
+### Decentralization vs. Compliance Trade-Off:
+- Full decentralization = No oversight, risk of illicit use
+- Regulated integration = More institutional trust, but risks centralization
+
+### Key Takeaway:
+Governments & financial institutions influence crypto’s future.
+Adoption will depend on regulatory clarity and infrastructure improvements.
+
+## Μπορεί το κρυπτονόμισμα να γίνει mainstream; Κύριες προκλήσεις υιοθέτησης
+
+### Ρυθμιστική Αβεβαιότητα:
+- Οι κυβερνήσεις δυσκολεύονται να ταξινομήσουν τα κρυπτονομίσματα ως:
+  - Νόμισμα (ασταθές για καθημερινή χρήση)
+  - Επενδυτικά περιουσιακά στοιχεία (υπόκεινται σε φόρους κεφαλαιακών κερδών και άλλους φόρους)
+  - Εμπορεύματα (“ψηφιακός χρυσός”)
+- Οι ρυθμιστικές ανησυχίες περιλαμβάνουν επίσης:
+  - Συμμόρφωση με την Καταπολέμηση της Νομιμοποίησης Εσόδων από Παράνομες Δραστηριότητες (AML) & Γνωρίστε τον Πελάτη σας (KYC)
+  - Πιθανός ανταγωνισμός με τα ψηφιακά νομίσματα των κεντρικών τραπεζών
+
+### Υιοθέτηση από Ιδρύματα:
+- Bitcoin ETFs & Εταιρικές Κρατήσεις:
+  - Εταιρείες όπως η Tesla και η MicroStrategy κρατούν BTC ως αποθεματικό περιουσιακό στοιχείο
+  - Τα ETFs επιτρέπουν στους παραδοσιακούς επενδυτές να έχουν πρόσβαση στο Bitcoin
+- Ο Ρόλος του Ethereum στην Οικονομική Υποδομή:
+  - Χρησιμοποιείται σε stablecoins, DeFi, τοκενισμένα περιουσιακά στοιχεία του πραγματικού κόσμου (RWAs)
+
+### Ανταλλαγή μεταξύ Αποκέντρωσης και Συμμόρφωσης:
+- Πλήρης αποκέντρωση = Χωρίς εποπτεία, κίνδυνος παράνομης χρήσης
+- Ρυθμιζόμενη ενσωμάτωση = Περισσότερη εμπιστοσύνη από ιδρύματα, αλλά κίνδυνος κεντροποίησης
+
+### Κύριο Συμπέρασμα:
+Οι κυβερνήσεις και τα χρηματοπιστωτικά ιδρύματα επηρεάζουν το μέλλον των κρυπτονομισμάτων.
+Η υιοθέτηση θα εξαρτηθεί από τη ρυθμιστική σαφήνεια και τις βελτιώσεις στις υποδομές.
+
+## A Short Intro to Bitcoin and Ethereum
+
+### Where it all started: Bitcoin
+Bitcoin’s core innovation is the public blockchain, a transparent, auditable ledger without a central authority.
+
+#### How Bitcoin Works:
+- Transactions are recorded on a decentralized ledger that anyone can verify.
+- Miners validate transactions and add them to the blockchain using Proof of Work.
+- No central issuer (e.g., no central bank controlling supply).
+
+#### Why is This Important?
+- Enables trustless transactions (no need to trust banks or governments).
+- Reduces counterfeiting risk (transactions are cryptographically secured).
+- Creates an immutable financial record (once recorded, transactions cannot be changed).
+
+#### Key Difference from Traditional Finance:
+- In banking, a central authority (bank) maintains accounts.
+- In Bitcoin, a decentralized network maintains the ledger.
+
+## Μια Σύντομη Εισαγωγή στο Bitcoin και το Ethereum
+
+### Από πού ξεκίνησαν όλα: Bitcoin
+Η κύρια καινοτομία του Bitcoin είναι το δημόσιο blockchain, ένα διαφανές, ελεγχόμενο από όλους βιβλίο χωρίς κεντρική αρχή.
+
+#### Πώς Λειτουργεί το Bitcoin:
+- Οι συναλλαγές καταγράφονται σε ένα αποκεντρωμένο βιβλίο που μπορεί να επαληθεύσει οποιοσδήποτε.
+- Οι εξορύκτες επικυρώνουν τις συναλλαγές και τις προσθέτουν στο blockchain χρησιμοποιώντας το Proof of Work.
+- Δεν υπάρχει κεντρικός εκδότης (π.χ., καμία κεντρική τράπεζα που να ελέγχει την προσφορά).
+
+#### Γιατί Είναι Αυτό Σημαντικό;
+- Επιτρέπει συναλλαγές χωρίς εμπιστοσύνη (χωρίς να χρειάζεται να εμπιστεύεστε τράπεζες ή κυβερνήσεις).
+- Μειώνει τον κίνδυνο παραχάραξης (οι συναλλαγές είναι κρυπτογραφικά ασφαλισμένες).
+- Δημιουργεί ένα αμετάβλητο οικονομικό αρχείο (μόλις καταγραφούν, οι συναλλαγές δεν μπορούν να αλλάξουν).
+
+#### Κύρια Διαφορά από την Παραδοσιακή Χρηματοδότηση:
+- Στις τράπεζες, μια κεντρική αρχή (τράπεζα) διατηρεί τους λογαριασμούς.
+- Στο Bitcoin, ένα αποκεντρωμένο δίκτυο διατηρεί το βιβλίο.
+
+## Bitcoin’s Monetary Policy
+
+Unlike fiat currencies, Bitcoin has a fixed supply of 21 million coins.
+
+### How Bitcoin’s Monetary Policy Works:
+- New BTC is introduced through mining rewards, which are cut in half every ~4 years in an event called the halving.
+
+### Why Does This Matter?
+- Predictable Supply – Unlike fiat currencies, Bitcoin’s issuance is transparent and algorithmic.
+- Deflationary Tendency – As supply issuance slows, some argue Bitcoin could increase in value over time.
+- Decentralized Governance – Monetary policy is enforced by Bitcoin’s code, not a central bank.
+
+### Comparison to Fiat Currencies:
+- Central banks can print more fiat money, leading to inflation.
+- Bitcoin supply is fixed and cannot be increased, making it resistant to devaluation.
+
+## Η Νομισματική Πολιτική του Bitcoin
+
+Σε αντίθεση με τα συμβατικά νομίσματα, το Bitcoin έχει σταθερή προσφορά 21 εκατομμυρίων νομισμάτων.
+
+### Πώς Λειτουργεί η Νομισματική Πολιτική του Bitcoin:
+- Νέα BTC εισάγονται μέσω ανταμοιβών εξόρυξης, οι οποίες μειώνονται στο μισό κάθε ~4 χρόνια σε ένα γεγονός που ονομάζεται halving.
+
+### Γιατί Αυτό Είναι Σημαντικό;
+- Προβλέψιμη Προσφορά – Σε αντίθεση με τα συμβατικά νομίσματα, η έκδοση του Bitcoin είναι διαφανής και αλγοριθμική.
+- Τάση προς Αποπληθωρισμό – Καθώς η έκδοση προσφοράς επιβραδύνεται, κάποιοι υποστηρίζουν ότι το Bitcoin θα μπορούσε να αυξήσει την αξία του με την πάροδο του χρόνου.
+- Αποκεντρωμένη Διακυβέρνηση – Η νομισματική πολιτική επιβάλλεται από τον κώδικα του Bitcoin, όχι από μια κεντρική τράπεζα.
+
+### Σύγκριση με τα Συμβατικά Νομίσματα:
+- Οι κεντρικές τράπεζες μπορούν να τυπώνουν περισσότερα συμβατικά χρήματα, οδηγώντας σε πληθωρισμό.
+- Η προσφορά του Bitcoin είναι σταθερή και δεν μπορεί να αυξηθεί, καθιστώντας το ανθεκτικό στην υποτίμηση.
+
+## Beyond Bitcoin: The Evolution to Ethereum
+
+Bitcoin introduced decentralized digital money, enabling trustless transactions.
+
+### However:
+- Its design prioritizes security and decentralization over speed and scalability.
+- The Bitcoin network is limited to simple transactions (sending & receiving BTC).
+
+### Ethereum Expanded Blockchain’s Capabilities, Introducing:
+- Smart Contracts – Programmable agreements that execute automatically.
+- Decentralized Applications (dApps) – Software running on a blockchain.
+- New Consensus Models – Transitioning from PoW to PoS for efficiency.
+
+### This Way, Ethereum Moved Beyond Digital Money, Creating:
+- An open, programmable financial system.
+- Decentralized finance (DeFi), NFTs, and new economic models.
+
+## Πέρα από το Bitcoin: Η Εξέλιξη στο Ethereum
+
+Το Bitcoin εισήγαγε το αποκεντρωμένο ψηφιακό χρήμα, επιτρέποντας συναλλαγές χωρίς εμπιστοσύνη.
+
+### Ωστόσο:
+- Ο σχεδιασμός του δίνει προτεραιότητα στην ασφάλεια και την αποκέντρωση έναντι της ταχύτητας και της επεκτασιμότητας.
+- Το δίκτυο του Bitcoin περιορίζεται σε απλές συναλλαγές (αποστολή & λήψη BTC).
+
+### Το Ethereum Επέκτεινε τις Δυνατότητες του Blockchain, Εισάγοντας:
+- Έξυπνα Συμβόλαια – Προγραμματιζόμενες συμφωνίες που εκτελούνται αυτόματα.
+- Αποκεντρωμένες Εφαρμογές (dApps) – Λογισμικό που τρέχει σε blockchain.
+- Νέα Μοντέλα Συναίνεσης – Μετάβαση από PoW σε PoS για αποδοτικότητα.
+
+### Με Αυτόν τον Τρόπο, το Ethereum Πέρασε από το Ψηφιακό Χρήμα, Δημιουργώντας:
+- Ένα ανοικτό, προγραμματιζόμενο οικονομικό σύστημα.
+- Αποκεντρωμένη χρηματοδότηση (DeFi), NFTs, και νέα οικονομικά μοντέλα.
+
+## Ether’s Monetary Policy
+
+Unlike Bitcoin, Ethereum has no fixed supply limit.
+
+### How Ethereum’s Supply Works:
+- New ETH is issued to validators (under Proof of Stake).
+- ETH is burned via transaction fees, reducing overall supply.
+- This creates deflationary pressure, depending on network activity.
+
+### Key Difference from Bitcoin:
+- Bitcoin has a hard supply cap.
+- Ethereum has a dynamic supply mechanism (inflationary or deflationary depending on network usage).
+
+## Η Νομισματική Πολιτική του Ether
+
+Σε αντίθεση με το Bitcoin, το Ethereum δεν έχει σταθερό όριο προσφοράς.
+
+### Πώς Λειτουργεί η Προσφορά του Ethereum:
+- Νέα ETH εκδίδονται στους επικυρωτές (υπό το Proof of Stake).
+- Το ETH καίγεται μέσω των τελών συναλλαγών, μειώνοντας τη συνολική προσφορά.
+- Αυτό δημιουργεί αποπληθωριστική πίεση, ανάλογα με τη δραστηριότητα του δικτύου.
+
+### Κύρια Διαφορά από το Bitcoin:
+- Το Bitcoin έχει ένα σκληρό όριο προσφοράς.
+- Το Ethereum έχει έναν δυναμικό μηχανισμό προσφοράς (πληθωριστικός ή αποπληθωριστικός ανάλογα με τη χρήση του δικτύου).
+
+## Consensus Algorithms: Securing Decentralized Networks
+
+Consensus algorithms enable blockchains to function without central authorities. They determine how transactions are verified and how new blocks are added to the chain.
+
+### Bitcoin and Ethereum initially used Proof of Work (PoW):
+- Miners compete to solve cryptographic puzzles, securing the network.
+- **Strengths:** High security, decentralization
+- **Weaknesses:** Energy-intensive, limited scalability
+
+### Ethereum then transitioned to Proof of Stake (PoS) in 2022 (Ethereum 2.0):
+- Validators secure the network by staking ETH instead of using mining power.
+- **Strengths:** More energy-efficient, faster transaction processing
+- **Weaknesses:** May favor wealthy participants
+
+### In Summary:
+- **PoW:** More battle-tested but consumes more energy.
+- **PoS:** Improves efficiency but may introduce new security concerns.
+- Each consensus model has trade-offs between security, decentralization, and scalability.
+
+## Αλγόριθμοι Συναίνεσης: Ασφαλίζοντας Αποκεντρωμένα Δίκτυα
+
+Οι αλγόριθμοι συναίνεσης επιτρέπουν στις blockchain να λειτουργούν χωρίς κεντρικές αρχές. Καθορίζουν πώς επαληθεύονται οι συναλλαγές και πώς προστίθενται νέα μπλοκ στην αλυσίδα.
+
+### Το Bitcoin και το Ethereum αρχικά χρησιμοποιούσαν το Proof of Work (PoW):
+- Οι εξορύκτες ανταγωνίζονται για την επίλυση κρυπτογραφικών παζλ, ασφαλίζοντας το δίκτυο.
+- **Πλεονεκτήματα:** Υψηλή ασφάλεια, αποκέντρωση
+- **Μειονεκτήματα:** Ενεργοβόρο, περιορισμένη επεκτασιμότητα
+
+### Το Ethereum στη συνέχεια μετέβη στο Proof of Stake (PoS) το 2022 (Ethereum 2.0):
+- Οι επικυρωτές ασφαλίζουν το δίκτυο με το να στοιχηματίζουν ETH αντί να χρησιμοποιούν εξορυκτική ισχύ.
+- **Πλεονεκτήματα:** Πιο ενεργειακά αποδοτικό, ταχύτερη επεξεργασία συναλλαγών
+- **Μειονεκτήματα:** Μπορεί να ευνοήσει τους πλούσιους συμμετέχοντες
+
+### Συνοπτικά:
+- **PoW:** Πιο δοκιμασμένο στη μάχη αλλά καταναλώνει περισσότερη ενέργεια.
+- **PoS:** Βελτιώνει την αποδοτικότητα αλλά μπορεί να εισάγει νέες ανησυχίες για την ασφάλεια.
+- Κάθε μοντέλο συναίνεσης έχει συμβιβασμούς μεταξύ ασφάλειας, αποκέντρωσης και επεκτασιμότητας.
+
+## Proof of Work (PoW) – Securing Bitcoin’s Blockchain
+
+PoW relies on miners competing to solve complex mathematical puzzles. The first miner to solve the puzzle adds the next block and earns Bitcoin rewards.
+
+### Why PoW Works:
+- **Security:** The cost of attacking Bitcoin is extremely high (requires 51% of mining power).
+- **Decentralization:** No single entity controls mining (though large mining pools exist).
+- **Immutable Ledger:** Altering past transactions requires re-mining all subsequent blocks, making attacks impractical.
+
+### Challenges of PoW:
+- **Energy Consumption:** Bitcoin mining uses more electricity than some countries (e.g., Argentina).
+- **Slow Transactions:** Bitcoin processes ~7 transactions per second (TPS) (compared to Visa’s 24,000 TPS).
+- **Centralization Concerns:** Mining is increasingly concentrated in areas with cheap electricity.
+
+### Key Takeaway:
+- PoW provides high security but sacrifices efficiency and sustainability.
+
+## Proof of Work (PoW) – Ασφαλίζοντας το Blockchain του Bitcoin
+
+Το PoW βασίζεται σε εξορύκτες που ανταγωνίζονται για την επίλυση πολύπλοκων μαθηματικών παζλ. Ο πρώτος εξορύκτης που θα λύσει το παζλ προσθέτει το επόμενο μπλοκ και κερδίζει ανταμοιβές Bitcoin.
+
+### Γιατί το PoW Λειτουργεί:
+- **Ασφάλεια:** Το κόστος επίθεσης στο Bitcoin είναι εξαιρετικά υψηλό (απαιτεί το 51% της εξορυκτικής ισχύος).
+- **Αποκέντρωση:** Καμία οντότητα δεν ελέγχει την εξόρυξη (αν και υπάρχουν μεγάλα εξορυκτικά pools).
+- **Αμετάβλητο Καθολικό:** Η αλλαγή παρελθουσών συναλλαγών απαιτεί την επανεξόρυξη όλων των επόμενων μπλοκ, κάνοντας τις επιθέσεις ανέφικτες.
+
+### Προκλήσεις του PoW:
+- **Κατανάλωση Ενέργειας:** Η εξόρυξη Bitcoin χρησιμοποιεί περισσότερη ηλεκτρική ενέργεια από ορισμένες χώρες (π.χ., Αργεντινή).
+- **Αργές Συναλλαγές:** Το Bitcoin επεξεργάζεται ~7 συναλλαγές ανά δευτερόλεπτο (TPS) (σε σύγκριση με τις 24,000 TPS της Visa).
+- **Ανησυχίες Κεντροποίησης:** Η εξόρυξη συγκεντρώνεται όλο και περισσότερο σε περιοχές με φθηνή ηλεκτρική ενέργεια.
+
+### Κύριο Συμπέρασμα:
+- Το PoW παρέχει υψηλή ασφάλεια αλλά θυσιάζει την αποδοτικότητα και τη βιωσιμότητα.
